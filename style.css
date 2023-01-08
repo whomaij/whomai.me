@@ -1,0 +1,6 @@
+body {
+	background:  linear-gradient(to left, blue, red);
+	font-family:  arial;
+	color:  white;
+	text-shadow: 1px 1px 4px black;
+}
